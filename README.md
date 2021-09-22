@@ -14,6 +14,9 @@
   
 <a href="https://github.com/asutoshb" target="blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/768px-Git_icon.svg.png" alt="https://www.linkedin.com/in/asutosh-behera-491908190/" height="30" width="40" /></a>
+  
+  <a href="https://github.com/asutoshbehera5" target="blank">
+  <img align="center" src="https://www.creativefreedom.co.uk/wp-content/uploads/2017/06/Twitter-featured.png" alt="https://www.linkedin.com/in/asutosh-behera-491908190/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
