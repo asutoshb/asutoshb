@@ -3,6 +3,9 @@
 
 <p>Aspiring Web Developer familiar with javaScript, HTML, CSS, data structure, algorithm, and some new technologies like MongoDB, react, express, node. Strong knowledge of data structure and algorithms and great problem-solving skills. Interested to contribute to a prominent project.</p>
 
+![dev](https://user-images.githubusercontent.com/86410005/145585905-87465ff6-0e31-4252-963d-8f8810b4526f.gif)
+
+
 - 💬 Ask me about **React html css redux mongoDb nodejs expressjs**
 
 - 📫 How to reach me **beheraasutosh132@gmail.com**
